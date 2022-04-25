@@ -1,11 +1,11 @@
-<div align = "center"><img src="https://media.discordapp.net/attachments/864537563128791070/968244004795875338/Nevtelen.png?width=676&height=676"></div>
+<div align = "center"><img src="https://media.discordapp.net/attachments/864537563128791070/968244004795875338/Nevtelen.png?width=150&height=150"></div>
 
 ---
 
 ### About Me
 
 * Computer Science
-* CS:GO server
+* CS:GO plugin maker
 
 ---
 
