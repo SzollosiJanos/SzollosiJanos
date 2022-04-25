@@ -8,6 +8,8 @@
 ```javascript
 const MegoltElek = {
         pronouns: "He" | "Him",
+        age: 20,
+        country: Hungary,
         code: ["C", "C++", "Javascript", "Python", "Java", "PHP", "HTML"],
         databases: ["mongo", "MySql", "sqlite"],
     },
