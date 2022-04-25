@@ -10,6 +10,7 @@ const MegoltElek = {
         pronouns: "He" | "Him",
         age: 20,
         country: Hungary,
+        languages: ["Hungarian", "English", "German"],
         code: ["C", "C++", "Javascript", "Python", "Java", "PHP", "HTML"],
         databases: ["mongo", "MySql", "sqlite"],
     },
