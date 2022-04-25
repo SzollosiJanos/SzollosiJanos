@@ -11,6 +11,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SzollosiJanos&show_icons=true&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/SzollosiJanos)
-
 ![](https://komarev.com/ghpvc/?username=SzollosiJanos&color=blue&style=plastic)
