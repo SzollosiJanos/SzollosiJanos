@@ -13,9 +13,13 @@ const MegoltElek = {
     },
     architecture: ["CSGO plugins", "CSGO server configs", "Databases", "Cheats", "Hacks", "Viruses"],
     currentFocus: "CSGO case system, University",
-    currentStudies: "University of Miskolc, Computer Science"
-    youCanFindMe: ["Discord: MegoltElek#1102", "Github: SzollosiJanos"]
-};
+    currentStudies: "University of Miskolc, Computer Science",
+    connections = {
+        Discord: "MegoltElek#1102",
+        Github: "https://github.com/SzollosiJanos",
+        Steam: "https://steamcommunity.com/id/megoltelekhun/",
+        Lol: "MegoltElek HUN"
+    };
 ```
 
 ---
