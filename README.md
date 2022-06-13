@@ -1,4 +1,4 @@
-<div align = "center"><img src="https://media.discordapp.net/attachments/666303695323136010/985695150544134214/Nevtelen.png?width=150&height=150"></div>
+<div align = "center"><img src="https://media.discordapp.net/attachments/666303695323136010/985695150544134214/Nevtelen.png?width=250&height=250"></div>
 
 ![](https://komarev.com/ghpvc/?username=SzollosiJanos&color=blue&style=plastic)
 
