@@ -14,8 +14,7 @@ const MegoltElek = {
         code: ["C", "C++", "Javascript", "Python", "Java", "PHP", "HTML"],
         databases: ["mongo", "MySql", "sqlite"],
     },
-    architecture: ["CSGO plugins", "CSGO server configs", "Databases", "Cheats", "Hacks", "Viruses"],
-    currentFocus: "CSGO case system, University",
+    currentFocus: "University",
     currentStudies: "University of Miskolc, Computer Science",
     connections = {
         Discord: "MegoltElek#1102",
