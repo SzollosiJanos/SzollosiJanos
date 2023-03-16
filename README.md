@@ -8,7 +8,7 @@
 ```javascript
 const MegoltElek = {
         pronouns: "He" | "Him",
-        age: 20,
+        age: 21,
         country: Hungary,
         languages: ["Hungarian", "English", "German", "Руский"],
         code: ["C", "C++", "Javascript", "Python", "Java", "PHP", "HTML"],
