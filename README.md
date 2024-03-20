@@ -1,4 +1,4 @@
-<div align = "center"><img src="https://media.discordapp.net/attachments/666303695323136010/985695150544134214/Nevtelen.png?width=250&height=250"></div>
+<div align = "center"><img src="https://media.discordapp.net/attachments/1034902485996929125/1220120791589453864/Nevtelen.png?width=250&height=250"></div>
 
 ![](https://komarev.com/ghpvc/?username=SzollosiJanos&color=blue&style=plastic)
 
@@ -8,10 +8,10 @@
 ```javascript
 const MegoltElek = {
         pronouns: "He" | "Him",
-        age: 21,
+        age: 22,
         country: Hungary,
         languages: ["Hungarian", "English", "German", "Руский"],
-        code: ["C", "C++", "Javascript", "Python", "Java", "PHP", "HTML"],
+        code: ["C", "C++", "C#", "Javascript", "Python", "Java", "PHP", "HTML"],
         databases: ["mongo", "MySql", "sqlite"],
     },
     currentFocus: "University",
@@ -20,7 +20,7 @@ const MegoltElek = {
         Discord: "MegoltElek#1102",
         Github: "https://github.com/SzollosiJanos",
         Steam: "https://steamcommunity.com/id/megoltelekhun/",
-        Lol: "MegoltElek HUN"
+        Lol: "MegoltElek HUN#EUNE"
     };
 ```
 
