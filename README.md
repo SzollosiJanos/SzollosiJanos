@@ -1,4 +1,4 @@
-<div align = "center" ><img src="https://i.imgur.com/e6uhOkL.png" style="width:20px;"></div>
+<div align = "center" ><img src="https://i.imgur.com/e6uhOkL.png" style="width:250px;"></div>
 
 ![](https://komarev.com/ghpvc/?username=SzollosiJanos&color=blue&style=plastic)
 
