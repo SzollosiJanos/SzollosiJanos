@@ -1,5 +1,4 @@
-<div align = "center"><img src="https://media.discordapp.net/attachments/1034902485996929125/1220120791589453864/Nevtelen.png?ex=660dc909&is=65fb5409&hm=3ac2155644ff28954e96f87a1c65d53679c69c3a9d974c9201c24f1c14b0d9ff&=&format=webp&quality=lossless&width=250&height=250"></div>
-
+<div align = "center"><img src="https://i.imgur.com/e6uhOkL.png"></div>
 ![](https://komarev.com/ghpvc/?username=SzollosiJanos&color=blue&style=plastic)
 
 ---
