@@ -14,7 +14,7 @@ const MegoltElek = {
         code: ["C", "C++", "C#", "Javascript", "Python", "Java", "HTML"],
         databases: ["SSMS", "MySql", "sqlite"],
     },
-    currentJob: "JEMS Software Developer/Engineer",
+    currentJob: "Software Developer/Engineer",
     currentDegree: "Software Developer Bsc, University of Miskolc",
     connections = {
         Discord: "MegoltElek#1102",
